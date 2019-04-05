@@ -1,12 +1,13 @@
-var Wyh_data = $.getJSON("data/dragli2.json",function(){
+var Wyh_data = $.getJSON("data/dragli2.json",function(data){
   console.log("success")
+  return data
 })
 console.log(Wyh_data)
 var vm = new Vue({
   el: "#app",
   data: {
-    keyword: Wyh_data["responseJSON"].keyword,
-    cards: Wyh_data["responseJSON"].cards
+    keyword: Wyh_data.keyword,
+    cards: Wyh_data.cards
   },
   methods: {
       showContent: (d)=>{
