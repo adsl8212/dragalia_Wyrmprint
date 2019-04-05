@@ -6,12 +6,11 @@ var vm = new Vue({
   },
   methods: {
       search: function(d){
-        var temp = null
+        var temp = false
         for(var i=0;i<d.content.length;i++){
            temp = (d.content[i].indexOf(this.keyword)!=-1) || temp
 
         }
-        console.log(temp)
         return temp
       }
     },
