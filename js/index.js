@@ -18,7 +18,7 @@ var vm = new Vue({
     var self = this
     $.getJSON("data/dragli3.json",function(data){
       console.log("success")
-      console.log(data)
+      // console.log(data)
       self.cards = data
   })
   }
