@@ -5,8 +5,8 @@ console.log(Wyh_data)
 var vm = new Vue({
   el: "#app",
   data: {
-    keyword: Wyh_data.keyword,
-    cards: Wyh_data.cards
+    keyword: Wyh_data["responseJSON"].keyword,
+    cards: Wyh_data["responseJSON"].cards
   },
   methods: {
       showContent: (d)=>{
