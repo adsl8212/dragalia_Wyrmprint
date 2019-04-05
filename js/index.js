@@ -5,7 +5,7 @@ import Wyh_data from 'data/dragli2.json'
 var vm = new Vue({
   el: "#app",
   data: function(){
-    return (Wyh_data)
+    return {Wyh_data}
   },
   methods: {
       showContent: (d)=>{
