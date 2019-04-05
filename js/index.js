@@ -12,7 +12,9 @@ var vm = new Vue({
         var temp = false
         for(var i=0;i<d.content.length;i++){
            temp = (d.content[i].indexOf(this.keyword)!=-1) || temp
+
         }
+        console.log(temp)
         return temp
       }
     },
