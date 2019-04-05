@@ -1,11 +1,12 @@
-// var Wyh_data = $.getJSON("data/dragli2.json",function(){
-//   console.log("success")
-// })
-import Wyh_data from 'data/dragli2.json'
+var Wyh_data = $.getJSON("data/dragli2.json",function(){
+  console.log("success")
+})
+// import Wyh_data from 'data/dragli2.json'
 var vm = new Vue({
   el: "#app",
-  data: function(){
-    return {Wyh_data}
+  data: {
+    keyword: Wyh_data.keyword,
+    cards: Wyh_data.cards
   },
   methods: {
       showContent: (d)=>{
