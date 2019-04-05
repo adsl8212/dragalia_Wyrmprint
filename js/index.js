@@ -4,6 +4,7 @@ var Wyh_data = function(){
     var temp =[]
     temp = data
     console.log(temp)
+    return temp
   })
 }
 
