@@ -1,0 +1,24 @@
+#app
+  .control.check
+    input(type="checkbox" value="2")
+    label
+      img(src="https://dragalialost.gamepedia.com/images/d/d2/Icon_Rarity_2.png" height="20px")
+    input(type="checkbox" value="3" )
+    label
+      img(src="https://dragalialost.gamepedia.com/images/b/b4/Icon_Rarity_3.png" height="20px")
+    input(type="checkbox" value="4")
+    label
+      img(src="https://dragalialost.gamepedia.com/images/7/7d/Icon_Rarity_4.png" height="20px")
+    input(type="checkbox" value="5")
+    label
+      img(src="https://dragalialost.gamepedia.com/images/4/4e/Icon_Rarity_5.png" height="20px")
+  .control.search
+    label 效果關鍵字: 
+    input(v-model="keyword")
+  h4(v-if="keyword") 以下為搜尋 {{keyword}} 的項目
+  .cards
+    .card(v-for="card in cards" v-if="search(card)")
+      img.cover(:src="card.img_url")
+      .info
+        h3 {{card.title}}
+        p.content(v-for="content in card.content") {{content}}

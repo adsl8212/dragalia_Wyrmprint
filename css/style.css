@@ -1,0 +1,35 @@
+@charset "UTF-8";
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  font-family: "微軟正黑體";
+}
+
+.control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  flex-wrap: wrap;
+  padding: 40px;
+}
+
+.card {
+  margin: 5px;
+  text-align: center;
+}
+.card .cover {
+  width: 220px;
+}
+.card .info {
+  padding: 3px;
+}
+.card .info h3 {
+  margin: 0;
+}
