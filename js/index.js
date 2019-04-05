@@ -2,7 +2,9 @@ var Wyh_data = function(){
   $.getJSON("data/dragli3.json",function(data){
     console.log("success")
     var temp =[]
-    temp = data
+    for(var i=0;i<data.length;i++){
+      temp.push(data[i])
+    }
     console.log(temp)
     return temp
   })
