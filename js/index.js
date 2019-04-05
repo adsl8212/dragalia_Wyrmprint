@@ -1,8 +1,8 @@
 var Wyh_data = getdata()
 function getdata(){
+  var temp =[]
   $.getJSON("data/dragli3.json",function(data){
     console.log("success")
-    var temp =[]
     for(var i=0;i<data.length;i++){
       temp.push(data[i])
     }
