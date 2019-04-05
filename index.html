@@ -32,7 +32,7 @@
   </div>
   <h4 v-if="keyword">以下為搜尋 {{keyword}} 的項目</h4>
   <div class="cards">
-    <div class="card" v-for="card in cards" v-if="search(card)"><img class="cover" :src="card.img_url"/>
+    <div class="card" v-for="card in cards"><img class="cover" :src="card.img_url"/>
       <div class="info">
         <h3>{{card.title}}</h3>
         <p class="content" v-for="content in card.content">{{content}}</p>
