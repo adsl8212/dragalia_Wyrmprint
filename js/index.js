@@ -5,11 +5,8 @@ var vm = new Vue({
     cards: []
   },
   methods: {
-      showContent: (d)=>{
-        $(".content").append(d.content)
-      },
       search: (d)=>{
-        var temp = false
+        var temp = null
         for(var i=0;i<d.content.length;i++){
            temp = (d.content[i].indexOf(this.keyword)!=-1) || temp
 
