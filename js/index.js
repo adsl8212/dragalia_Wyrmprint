@@ -5,7 +5,7 @@ $.getJSON("data/dragli3.json",function(data){
   console.log(Wyh_data)
   
 })
-console.log(Wyh_data.title)
+
 var vm = new Vue({
   el: "#app",
   data: {
