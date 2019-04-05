@@ -1,15 +1,3 @@
-
-// function getdata(){
-//   var temp =[]
-//   $.getJSON("data/dragli3.json",function(data){
-//     console.log("success")
-//     temp = data
-//     console.log(temp)
-//     return temp
-//   })
-// }
-// var Wyh_data = getdata()
-// console.log(Wyh_data)
 var vm = new Vue({
   el: "#app",
   data: {
@@ -23,7 +11,7 @@ var vm = new Vue({
       search: (d)=>{
         var temp = false
         for(var i=0;i<d.content.length;i++){
-           temp = (d.content[i].indexOf(self.keyword)!=-1) || temp
+           temp = (d.content[i].indexOf(this.keyword)!=-1) || temp
         }
         return temp
       }
