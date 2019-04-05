@@ -1,6 +1,7 @@
+var Wyh_data =''
 $.getJSON("data/dragli2.json",function(data){
   console.log("success")
-  var Wyh_data = $.parseJSON(data)
+  Wyh_data = $.parseJSON(data)
   console.log(Wyh_data)
   
 })
