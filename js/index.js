@@ -1,4 +1,4 @@
-var Wyh_data = getdata()
+
 function getdata(){
   var temp =[]
   $.getJSON("data/dragli3.json",function(data){
@@ -10,7 +10,7 @@ function getdata(){
     return temp
   })
 }
-
+var Wyh_data = getdata()
 console.log(Wyh_data)
 var vm = new Vue({
   el: "#app",
