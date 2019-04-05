@@ -1,0 +1,1293 @@
+[
+    {
+      "rarity": "5",
+      "title": "母愛",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/9c/400176_01_portrait.png/250px-400176_01_portrait.png?version=8b633a1b743fa55cdfb6912ae0a705ac",
+      "type": "",
+      "content": [
+        "Overdrive削減+30%(25%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "森林編織之絆",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/1b/400172_01_portrait.png/250px-400172_01_portrait.png?version=d1d29903b1a0ae89234af3203a742634",
+      "type": "",
+      "content": [
+        "【弓】技能傷害+35%(30%)",
+        "技能累積。強擊+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "不擅長念書？",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/2/23/400157_01_portrait.png/250px-400157_01_portrait.png?version=304f4af4c0201c68c04104fe50dae848",
+      "type": "",
+      "content": [
+        "技能傷害+25%(20%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "虛幻少女",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/7/76/400154_01_portrait.png/250px-400154_01_portrait.png?version=0e95022b234ca62b3ac5e10c6fb818a7",
+      "type": "",
+      "content": [
+        "背水之陣。治癒III(II)",
+        "開場傷害。盾II(I)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "光輝之霸主",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/4e/400167_01_portrait.png/250px-400167_01_portrait.png?version=e7791c16d238b7d67a90810c8124f1ce",
+      "type": "",
+      "content": [
+        "【劍】技能傷害+35%(30%)",
+        "龍族恩寵。攻II(I)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "黑暗中的曙光",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/6b/400150_01_portrait.png/250px-400150_01_portrait.png?version=09bb6d7181175d9a09518f8e7d8e5c77",
+      "type": "",
+      "content": [
+        "【光】異常狀態無效II(I)",
+        "闇屬性抗性+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "坦率時刻",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/d6/400148_01_portrait.png/250px-400148_01_portrait.png?version=4824ec0bf831e459a7176bb365437ca4",
+      "type": "",
+      "content": [
+        "【火】技能累積+8%"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "請將手交給我",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/e/e6/400147_01_portrait.png/250px-400147_01_portrait.png?version=588f4082ea62513b0a8ed558e8860088",
+      "type": "",
+      "content": [
+        "回復技能效果+10%"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "優雅護衛",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/43/400146_01_portrait.png/250px-400146_01_portrait.png?version=20958a7c6eee3d559773244a8888bb5b",
+      "type": "",
+      "content": [
+        "火燒特攻+25%"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "心跳加速★約會時光",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/81/400145_01_portrait.png/250px-400145_01_portrait.png?version=082253ee2a4f4974af98b010dee68d63",
+      "type": "",
+      "content": [
+        "BREAK特攻+25%"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "男子漢的情人節",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/8c/400144_01_portrait.png/250px-400144_01_portrait.png?version=e07302228def6f32a971a8e862239310",
+      "type": "",
+      "content": [
+        "背水之陣。攻+40%"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "嬌心備禮",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/57/400143_01_portrait.png/250px-400143_01_portrait.png?version=3e5b6da9b815c675247e304898307bc8",
+      "type": "",
+      "content": [
+        "感受我的心(玩家經驗值+10%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "薔薇妖精",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/f/f0/400142_01_portrait.png/250px-400142_01_portrait.png?version=5203c14b9cc2bab4798db8a72b8304f9",
+      "type": "",
+      "content": [
+        "開場活力提升V(I)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "薔薇貴公子",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/57/400139_01_portrait.png/250px-400139_01_portrait.png?version=f9aba6aeb690323577a8de3117abd0df",
+      "type": "",
+      "content": [
+        "【火】異常狀態無效II(I)",
+        "開場傷害。盾II(I)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "手工巧克力。教學",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/6d/400092_01_portrait.png/250px-400092_01_portrait.png?version=c77400bdc91414e7a7e034df6844ac50",
+      "type": "",
+      "content": [
+        "開場技能條+100%(50%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "功夫之道",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/64/400163_01_portrait.png/250px-400163_01_portrait.png?version=f89c72b453596fb67bb066aac1ea421e",
+      "type": "",
+      "content": [
+        "【斧】爆擊率+12%(10%)",
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "戰旗少女",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/0c/400080_01_portrait.png/250px-400080_01_portrait.png?version=a2b557d98e931b98ebaee82ea6b49a3e",
+      "type": "",
+      "content": [
+        "回復技能效果+10%(8%)",
+        "獅子奮迅+4%(3%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "精彩的把戲",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/7/70/400131_01_portrait.png/250px-400131_01_portrait.png?version=dd56a29e62c8d04659be620b031194a4",
+      "type": "",
+      "content": [
+        "HP70%。攻+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "最佳表現",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/ac/400129_01_portrait.png/250px-400129_01_portrait.png?version=c6af71f8cb7f68b4530d5e068e194dcc",
+      "type": "",
+      "content": [
+        "爆發攻擊+40%(30%)",
+        "爆擊傷害+13%(10%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "龍族馬戲團",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/5f/400128_01_portrait.png/250px-400128_01_portrait.png?version=b5c62d58c101bc0124465ceac04947a2",
+      "type": "",
+      "content": [
+        "【槍】技能傷害+35%(30%)",
+        "闇屬性抗性+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "來自日初之國的使者",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/95/400125_01_portrait.png/250px-400125_01_portrait.png?version=cb850b8b7af6b6084cf593e97f38c4ad",
+      "type": "",
+      "content": [
+        "技能傷害+25%(20%)",
+        "技能累積+5%(4%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "謹賀新年",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/83/400124_01_portrait.png/250px-400124_01_portrait.png?version=c0c479a7ef66b1f7657a782810370bd7",
+      "type": "",
+      "content": [
+        "光屬性抗性+10%(8%)",
+        "【闇】麻痺抗性+40%(25%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "獻給你的禮物",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/52/400123_01_portrait.png/250px-400123_01_portrait.png?version=d73b00b3d1f4a4517ab73e67a1ebbad1",
+      "type": "",
+      "content": [
+        "星龍祭快樂！(玩家經驗值+10%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "火山女王",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/47/400121_01_portrait.png/250px-400121_01_portrait.png?version=91589da7aacb4551217c95ad949f1e92",
+      "type": "",
+      "content": [
+        "真。緋龍抗性+25%(20%)",
+        "緋龍抗性+20%(15%)",
+        "火屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "星龍祭的特製蛋糕",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/b/bc/400118_01_portrait.png/250px-400118_01_portrait.png?version=21c8b120af69ff3646087e591cda81dd",
+      "type": "",
+      "content": [
+        "開場技能條+25%(20%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "星龍祭的王子殿下",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/09/400115_01_portrait.png/250px-400115_01_portrait.png?version=5b4af74503ca367f982c2ff778a11211",
+      "type": "",
+      "content": [
+        "爆擊傷害+15%(13%)",
+        "【水】疾風怒濤。爆擊+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "向星龍樹祈願",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/48/400091_01_portrait.png/250px-400091_01_portrait.png?version=af6f1b69c9c8b1cb3054d4fc586de305",
+      "type": "",
+      "content": [
+        "HP70%。防+10%(8%)",
+        "守護之鏈。治癒II(I)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "聖職者的休假日",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/3/3d/400111_01_portrait.png/250px-400111_01_portrait.png?version=e3555008e680bcc1b2990ce9a8eca973",
+      "type": "",
+      "content": [
+        "詛咒抗性+60%(50%)",
+        "【光】詛咒抗性+40%(25%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "傳渡世間的歌聲",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/7/77/400110_01_portrait.png/250px-400110_01_portrait.png?version=bbd23673763d0af58d7cad79d18d8a04",
+      "type": "",
+      "content": [
+        "技能傷害+25%(20%)",
+        "HP70%。爆擊+6%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "路易潔的喜好",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/e/e8/400107_01_portrait.png/250px-400107_01_portrait.png?version=07229e60364c50978f7cea8baa0cbe0c",
+      "type": "",
+      "content": [
+        "回復技能效果+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "優美烈風",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/69/400104_01_portrait.png/250px-400104_01_portrait.png?version=cfa5540195dc6ddc2e724c8db6f1160a",
+      "type": "",
+      "content": [
+        "BREAK特攻+25%(20%)",
+        "龍化時間+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "風中溫情",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/b/b1/400103_01_portrait.png/250px-400103_01_portrait.png?version=14c476af7669a8b9ae1576356d56c931",
+      "type": "",
+      "content": [
+        "開場技能條+25%(20%)",
+        "HP全滿。攻+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "寶石與劍",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/2/20/400099_01_portrait.png/250px-400099_01_portrait.png?version=c34e69cc5e4256f97d0e88ca50586e79",
+      "type": "",
+      "content": [
+        "技能累積+6%(5%)",
+        "HP70%。攻+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "克菈兒的計謀",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/43/400074_01_portrait.png/250px-400074_01_portrait.png?version=18d7a92d228fef2fd26eba276fed2ad4",
+      "type": "",
+      "content": [
+        "HP70%。回復+13%(10%)",
+        "背水之陣。防+40%(30%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "甜點掠賊",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/3/37/400087_01_portrait.png/250px-400087_01_portrait.png?version=248a8bb012c9b0f673065d5e0424a469",
+      "type": "",
+      "content": [
+        "技能傷害+25%(20%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "搗蛋。給糖。搗蛋",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/01/400078_01_portrait.png/250px-400078_01_portrait.png?version=eabb36fe87c9913932ae668d93007f7d",
+      "type": "",
+      "content": [
+        "開場技能條+25%(20%)",
+        "闇屬性抗性+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "萬聖節。巫女。魔造秘點",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/85/400077_01_portrait.png/250px-400077_01_portrait.png?version=4959dd78870882fd319de4b2ea95e274",
+      "type": "",
+      "content": [
+        "HP全滿。技能傷害+35%(30%)",
+        "黑暗抗性+25%(20%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "冰晶少女",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/3/32/400076_01_portrait.png/250px-400076_01_portrait.png?version=8aa4efc2d475dc1e6ec48eae7017285b",
+      "type": "",
+      "content": [
+        "HP70%。攻+10%(8%)",
+        "火屬性抗性+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "魔鬼教官的聲援",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/8a/400075_01_portrait.png/250px-400075_01_portrait.png?version=cff32dc3f26c0239a0ec2aa961a2dbb4",
+      "type": "",
+      "content": [
+        "背水之陣。攻+40%(30%)",
+        "技能傷害+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "暴風之譽",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/4e/400072_01_portrait.png/250px-400072_01_portrait.png?version=c1918e3fef6479c48503655b00d7f663",
+      "type": "",
+      "content": [
+        "真。碧龍抗性+25%(20%)",
+        "碧龍抗性+20%(15%)",
+        "風屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "狩獵之夜",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/11/400071_01_portrait.png/250px-400071_01_portrait.png?version=81dda9c7b80db7b6271c5e587caf7ed3",
+      "type": "",
+      "content": [
+        "爆發攻擊+40%(30%)",
+        "凍結抗性+25%(20%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "雷維翁的英雄",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/93/400070_01_portrait.png/250px-400070_01_portrait.png?version=8eccdb25fc2572d5ceab57e6a25116da",
+      "type": "",
+      "content": [
+        "HP70%。爆擊+8%(6%)",
+        "爆擊傷害+13%(10%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "琉卡的惡作劇",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/67/400068_01_portrait.png/250px-400068_01_portrait.png?version=665214638c9507100603d2a4879aa641",
+      "type": "",
+      "content": [
+        "技能傷害+25%(20%)",
+        "光屬性抗性+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "龍之血族",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/5f/400067_01_portrait.png/250px-400067_01_portrait.png?version=a53b90e0dc8e864ac71bd5a564e21d76",
+      "type": "",
+      "content": [
+        "龍化時間+15%(10%)",
+        "火屬性抗性+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "神聖的禱告",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/d1/400066_01_portrait.png/250px-400066_01_portrait.png?version=223cd1b1d7f55ee3af0289f0d04c69e4",
+      "type": "",
+      "content": [
+        "HP全滿。回復+15%(13%)",
+        "詛咒抗性+25%(20%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "勁敵",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/d0/400065_01_portrait.png/250px-400065_01_portrait.png?version=bb83d1ba71ced093b6211c1d3029cbb7",
+      "type": "",
+      "content": [
+        "BREAK特攻+25%(20%)",
+        "開場技能條+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "豪華盛宴",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/45/400064_01_portrait.png/250px-400064_01_portrait.png?version=93d0588e928990aa0194db6f8dee2a58",
+      "type": "",
+      "content": [
+        "HP全滿。攻+13%(10%)",
+        "爆擊傷害+13%(10%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "天才的靈光乍現",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/01/400063_01_portrait.png/250px-400063_01_portrait.png?version=553e53640dcaaf8beee78001920020af",
+      "type": "",
+      "content": [
+        "疾風怒濤。攻+15%(13%)",
+        "風屬性抗性+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "英勇王冠",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/b/bb/400062_01_portrait.png/250px-400062_01_portrait.png?version=35f82592051815a34559fe4b5f6d0fb3",
+      "type": "",
+      "content": [
+        "技能傷害+25%(20%)",
+        "守護之鏈。攻+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "5",
+      "title": "受傷就交給我治療",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/13/400052_01_portrait.png/250px-400052_01_portrait.png?version=28fd931807b72bad9593e533a33f443d",
+      "type": "",
+      "content": [
+        "回復技能效果+10%(8%)",
+        "HP全滿。防+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "蛋上所繪之夢",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/57/400174_01_portrait.png/250px-400174_01_portrait.png?version=df5140f3fad3a0e5a301da601371b9d1",
+      "type": "",
+      "content": [
+        "HP70%。防+8%(5%)",
+        "昏厥抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "頂級款待",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/08/400119_01_portrait.png/250px-400119_01_portrait.png?version=de774724a2cf7c111b25c35f5534ee80",
+      "type": "",
+      "content": [
+        "守護之鏈。攻+8%(5%)",
+        "HP70%。攻+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "惹人憐愛的舞姬",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/95/400152_01_portrait.png/250px-400152_01_portrait.png?version=7f238f61bf11cd7281f6168a65af8346",
+      "type": "",
+      "content": [
+        "毒抗性+20%(15%)",
+        "回復技能效果+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "旅途的護衛",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/cc/400093_01_portrait.png/250px-400093_01_portrait.png?version=f3c9ca6475b2426dd740b211c2de4a76",
+      "type": "",
+      "content": [
+        "開場技能條+20%(15%)",
+        "回復技能效果+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "炎之饗宴",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/af/400140_01_portrait.png/250px-400140_01_portrait.png?version=2e170c3b30546375c351ec93a87da1a6",
+      "type": "",
+      "content": [
+        "龍化中傷害提升+10%(6%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "龍之舞",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/0e/400138_01_portrait.png/250px-400138_01_portrait.png?version=fccd19ef294ba9f6328cd4d69d9f7577",
+      "type": "",
+      "content": [
+        "濕身抗性+50%(40%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "春節的祭典",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/61/400136_01_portrait.png/250px-400136_01_portrait.png?version=32c1ae16e0e090bb67857d68f50a5b61",
+      "type": "",
+      "content": [
+        "爆發傷害+30%(20%)",
+        "技能累積。強擊+8%(6%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "腳踏實地的宣傳活動",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/7/78/400090_01_portrait.png/250px-400090_01_portrait.png?version=cff70b4f3af3c9fe5da11608d5310c60",
+      "type": "",
+      "content": [
+        "毒抗性+25%(20%)",
+        "闇屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "新年最初的籤運",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/16/400127_01_portrait.png/250px-400127_01_portrait.png?version=4839b5e26ddcd626439181bd325f6a00",
+      "type": "",
+      "content": [
+        "麻痺抗性+20%(15%)",
+        "【闇】增益效果時間+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "羽子板對決！",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a5/400126_01_portrait.png/250px-400126_01_portrait.png?version=0be513c3ca9dc6f70d0d202979085ae7",
+      "type": "",
+      "content": [
+        "背水之陣。攻+30%(20%)",
+        "爆擊率+4%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "孩子們的星龍祭",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/3/3b/400116_01_portrait.png/250px-400116_01_portrait.png?version=fbd33fff6d50f3f96e0d71ea44d2f5a5",
+      "type": "",
+      "content": [
+        "昏厥抗性+25%(20%)",
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "雪落之街",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/86/400114_01_portrait.png/250px-400114_01_portrait.png?version=0ec3714ffece26e14ac9384727bb2892",
+      "type": "",
+      "content": [
+        "昏厥抗性+20%(15%)",
+        "背水之陣。治癒II(I)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "某日的溫暖陽光",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/e/ea/400112_01_portrait.png/250px-400112_01_portrait.png?version=ad86cccb9e692064d03380973e790f2d",
+      "type": "",
+      "content": [
+        "【光】爆擊率+6%(5%)",
+        "闇屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "西爾琪的協助",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/5d/400061_01_portrait.png/250px-400061_01_portrait.png?version=041be2aeb812f9514457587e4e0c1066",
+      "type": "",
+      "content": [
+        "黑暗抗性+25%(20%)",
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "陌生的視界",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a8/400105_01_portrait.png/250px-400105_01_portrait.png?version=7396885b8419568d369cc115a4636d53",
+      "type": "",
+      "content": [
+        "爆發傷害+30%(20%)",
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "豔烈二人組",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/17/400102_01_portrait.png/250px-400102_01_portrait.png?version=1d6b6829abb9b19976c40a5d8df8fc50",
+      "type": "",
+      "content": [
+        "睡眠抗性+20%(15%)",
+        "HP70%。攻+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "武士們的休息時光",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/90/400100_01_portrait.png/250px-400100_01_portrait.png?version=cdc5247d0a95ed57d888c362b7eb5d26",
+      "type": "",
+      "content": [
+        "睡眠抗性+50%(40%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "致命佳麗",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/44/400060_01_portrait.png/250px-400060_01_portrait.png?version=0851d89cffec8fc760e07621b5dbb5ee",
+      "type": "",
+      "content": [
+        "爆發傷害+30%(20%)",
+        "爆擊傷害+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "聖騎士的守護",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/b/b3/400053_01_portrait.png/250px-400053_01_portrait.png?version=47b09a13e88a0263321e5396012a174e",
+      "type": "",
+      "content": [
+        "火燒抗性+20%(15%)",
+        "開場技能條+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "昔日的幸福時光",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/2/2c/400069_01_portrait.png/250px-400069_01_portrait.png?version=162ab2f9a5b11ed33742cc4b833bbd82",
+      "type": "",
+      "content": [
+        "HP全滿。技能傷害+30%(25%)",
+        "技能累積+4%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "五龍咆哮：索狄亞克",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/4d/400059_01_portrait.png/250px-400059_01_portrait.png?version=e7127057e4a90dd291802c345b57fe7e",
+      "type": "",
+      "content": [
+        "闇龍抗性+20%(15%)",
+        "闇屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "五龍咆哮：朱庇特",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/85/400058_01_portrait.png/250px-400058_01_portrait.png?version=4228fee609b15d65c011932315902cd5",
+      "type": "",
+      "content": [
+        "輝龍抗性+20%(15%)",
+        "光屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "五龍咆哮：布倫希爾德",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/5e/400057_01_portrait.png/250px-400057_01_portrait.png?version=90c9ec69f014b7a873b7811b196b06bd",
+      "type": "",
+      "content": [
+        "緋龍抗性+20%(15%)",
+        "火屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "五龍咆哮：墨丘利",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/01/400056_01_portrait.png/250px-400056_01_portrait.png?version=e657ffaae5ab0f9fa349aaffb2daeab5",
+      "type": "",
+      "content": [
+        "青龍抗性+20%(15%)",
+        "水屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "五龍咆哮：耶夢加得",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/15/400055_01_portrait.png/250px-400055_01_portrait.png?version=703be49bd5665504afc6a0e71593dc75",
+      "type": "",
+      "content": [
+        "碧龍抗性+20%(15%)",
+        "風屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "戰場上的兩人",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/6b/400051_01_portrait.png/250px-400051_01_portrait.png?version=bfc7e431bc0564fa97c83600b7af574f",
+      "type": "",
+      "content": [
+        "爆發擊破。攻+4%(3%)",
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "飆舞大賽！",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/d7/400050_01_portrait.png/250px-400050_01_portrait.png?version=b562d20e5927c4278ac1ed184072f76b",
+      "type": "",
+      "content": [
+        "疾風怒濤。爆擊+8%(5%)",
+        "光屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "鍛冶屋三姊妹的羈絆",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/4b/400049_01_portrait.png/250px-400049_01_portrait.png?version=fb3d0ffc2908c02d3da57527991b5af6",
+      "type": "",
+      "content": [
+        "守護之鏈。攻+8%(5%)",
+        "昏厥抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "魔法研究新成果",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/8/84/400048_01_portrait.png/250px-400048_01_portrait.png?version=e36d81b910bad3af08d800b425c5ed72",
+      "type": "",
+      "content": [
+        "HP全滿。技能傷害+30%(25%)",
+        "麻痺抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "盔甲師的大志",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/f/f3/400047_01_portrait.png/250px-400047_01_portrait.png?version=b4c0f4d03ec8de74556355f891a81bc6",
+      "type": "",
+      "content": [
+        "HP全滿。防+20%(15%)",
+        "毒抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "命懸一線的愉悅戰鬥",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/7/7d/400046_01_portrait.png/250px-400046_01_portrait.png?version=ea9a6d8679b945de0b92498b371a3afe",
+      "type": "",
+      "content": [
+        "背水之陣。攻+30%(20%)",
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "將此身化為暗影",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/dd/400045_01_portrait.png/250px-400045_01_portrait.png?version=bdc353ebd64c6c929f24a6fc2aa47bd0",
+      "type": "",
+      "content": [
+        "爆擊率+5%(4%)",
+        "BREAK特攻+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "在此撤退吧！",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/12/400044_01_portrait.png/250px-400044_01_portrait.png?version=824c556eeac14beb261e629727fd273e",
+      "type": "",
+      "content": [
+        "背水之陣。防+50%(40%)",
+        "回復技能效果+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "真是給人添麻煩！",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/62/400043_01_portrait.png/250px-400043_01_portrait.png?version=d6feff2573af866391aa2dbcc87557ca",
+      "type": "",
+      "content": [
+        "回復技能效果+8%(5%)",
+        "毒抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "踏向未知的一步",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/56/400042_01_portrait.png/250px-400042_01_portrait.png?version=ddc16df9f4fee81a0fbaddf83642d390",
+      "type": "",
+      "content": [
+        "毒抗性+25%(20%)",
+        "水屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "王之威嚴",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a2/400041_01_portrait.png/250px-400041_01_portrait.png?version=9b366035a7df61f5fcf503e8d443a082",
+      "type": "",
+      "content": [
+        "詛咒抗性+25%(20%)",
+        "開場龍化量條+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "天空的霸主",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/cd/400040_01_portrait.png/250px-400040_01_portrait.png?version=868d5bcca6413521ecc2ad10eec28457",
+      "type": "",
+      "content": [
+        "Overdrive特攻+8%(5%)",
+        "闇屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "生存日誌",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/d2/400039_01_portrait.png/250px-400039_01_portrait.png?version=cf4b2dde452183352c5c7c767872e28b",
+      "type": "",
+      "content": [
+        "麻痺抗性+25%(20%)",
+        "光屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "我們就是智囊團",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/7/70/400038_01_portrait.png/250px-400038_01_portrait.png?version=3034b380db83c76d2ed572556ca8978b",
+      "type": "",
+      "content": [
+        "昏厥抗性+25%(20%)",
+        "風屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "火熱女子會",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/59/400037_01_portrait.png/250px-400037_01_portrait.png?version=d9667d6092f7b38fa0511f7cddf96494",
+      "type": "",
+      "content": [
+        "火燒抗性+25%(20%)",
+        "火屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "雨天的回憶",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a3/400036_01_portrait.png/250px-400036_01_portrait.png?version=d635b77f90aa6803185afbf82771806b",
+      "type": "",
+      "content": [
+        "濕身抗性+25%(20%)",
+        "水屬性抗性+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "性感。狙擊手",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/c0/400035_01_portrait.png/250px-400035_01_portrait.png?version=103150f091fb921a70d91185edf5ae6f",
+      "type": "",
+      "content": [
+        "BREAK特攻+20%(15%)",
+        "開場技能條+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "命運的救贖",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/d7/400034_01_portrait.png/250px-400034_01_portrait.png?version=66e038c398a73323d9a57a0e76377085",
+      "type": "",
+      "content": [
+        "回復技能效果+8%(5%)",
+        "開場技能條+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "4",
+      "title": "百刃繚亂",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/cf/400033_01_portrait.png/250px-400033_01_portrait.png?version=93e1dde53a6d82170f20e66b845f8722",
+      "type": "",
+      "content": [
+        "爆擊傷害+13%(10%)",
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "小小的紙糊龍偶",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/19/400175_01_portrait.png/250px-400175_01_portrait.png?version=0ad5d21e5785515495629ed2405f3924",
+      "type": "",
+      "content": [
+        "【水】技能累積+5%(4%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "異端研究室",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/e/e8/400156_01_portrait.png/250px-400156_01_portrait.png?version=9fc8dfbbe770679a84cb5c0fe73159c7",
+      "type": "",
+      "content": [
+        "【闇】技能累積+5%(4%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "達比亞濕地",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/c0/400151_01_portrait.png/250px-400151_01_portrait.png?version=15184215a0964685731b09ab52ad4fe8",
+      "type": "",
+      "content": [
+        "濕身抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "致最愛之人",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a2/400141_01_portrait.png/250px-400141_01_portrait.png?version=f035e996a1a226879e4bab4c34da257a",
+      "type": "",
+      "content": [
+        "開場技能條+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "仙花焰",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/6d/400137_01_portrait.png/250px-400137_01_portrait.png?version=940e2895817903f60282b7b79772117f",
+      "type": "",
+      "content": [
+        "【風】BREAK特攻+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "閃亮的場所",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/2/2b/400130_01_portrait.png/250px-400130_01_portrait.png?version=1deba9ca1e7cd1e4d87597fd63efa67d",
+      "type": "",
+      "content": [
+        "開場技能條+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "榮耀之光。高照。阿爾貝利亞！",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/2/27/400027_01_portrait.png/250px-400027_01_portrait.png?version=28a8eb18bdb82106b7fba356d3527084",
+      "type": "",
+      "content": [
+        "獅子奮迅。攻+3%(2%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "星落之夜的晚餐",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/c4/400117_01_portrait.png/250px-400117_01_portrait.png?version=335f3b46d2fa562dd43d7a5133207c0d",
+      "type": "",
+      "content": [
+        "回復技能效果+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "秘密的朋友",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/e/e1/400113_01_portrait.png/250px-400113_01_portrait.png?version=8e527f902c3e442ce3be39aca3ee8840",
+      "type": "",
+      "content": [
+        "【光】技能累積+5%(4%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "迦樓羅的羽毛",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/af/400106_01_portrait.png/250px-400106_01_portrait.png?version=b6b105aa07763a6030b64610485e01cf",
+      "type": "",
+      "content": [
+        "HP全滿。防+15%(13%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "出遊日的特製便當",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/e/eb/400101_01_portrait.png/250px-400101_01_portrait.png?version=97b8505a1406f3ee7dc410fce7b57cfa",
+      "type": "",
+      "content": [
+        "睡眠抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "南瓜盒",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/1b/400032_01_portrait.png/250px-400032_01_portrait.png?version=3af9d1d97c82c4b2790bc4d24f4438cf",
+      "type": "",
+      "content": []
+    },
+    {
+      "rarity": "3",
+      "title": "昔日之冠",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/9a/400029_01_portrait.png/250px-400029_01_portrait.png?version=1479549f918a61d13e12549a725770fb",
+      "type": "",
+      "content": [
+        "開場技能條+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "不融冰",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/f/f8/400031_01_portrait.png/250px-400031_01_portrait.png?version=b139e0f45d6a76a013b8f1b55966a778",
+      "type": "",
+      "content": [
+        "凍結抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "聖草魔藥香草",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/c8/400028_01_portrait.png/250px-400028_01_portrait.png?version=97d4270dd7dc66a80129f37f4c57d282",
+      "type": "",
+      "content": [
+        "毒抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "明日之轍",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/6/65/400026_01_portrait.png/250px-400026_01_portrait.png?version=cb0ea7c2bc623941721a2f4f116aa9bc",
+      "type": "",
+      "content": [
+        "昏厥抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "闇夜宣告",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/13/400025_01_portrait.png/250px-400025_01_portrait.png?version=0790cf98b6bfd1318b7a7b2dabc188e0",
+      "type": "",
+      "content": [
+        "HP全滿。攻+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "「古理莫爾斯之索引」抄本",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/7/71/400024_01_portrait.png/250px-400024_01_portrait.png?version=f7f34670858fc42dbab59efc87da759e",
+      "type": "",
+      "content": [
+        "技能傷害+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "戰士的追夢殘跡",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/16/400023_01_portrait.png/250px-400023_01_portrait.png?version=2d2af7b05acd2922b27d15c74b6b6163",
+      "type": "",
+      "content": [
+        "獅子奮迅。攻+3%(2%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "被封印的遺物",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a9/400022_01_portrait.png/250px-400022_01_portrait.png?version=4ac9e179f9823e4eff924176741c531e",
+      "type": "",
+      "content": [
+        "Overdrive抑制+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "幸運八葉草",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/41/400021_01_portrait.png/250px-400021_01_portrait.png?version=e69c8abf673f4d3470c82e1d1dc6dd41",
+      "type": "",
+      "content": [
+        "爆擊傷害+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "香氛燈",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/9d/400020_01_portrait.png/250px-400020_01_portrait.png?version=2f1644f769c3a2bae2f20135686e5c3b",
+      "type": "",
+      "content": [
+        "火燒抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "聖魯塔斯之風",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/f/fe/400019_01_portrait.png/250px-400019_01_portrait.png?version=d4e8bc9421a0b116f297911b2b2717c6",
+      "type": "",
+      "content": [
+        "回復技能效果+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "鐵騎兵之盾",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a2/400018_01_portrait.png/250px-400018_01_portrait.png?version=6ddedaf4047cafbd4d7cbad497edd091",
+      "type": "",
+      "content": [
+        "背水之陣。防+40%(30%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "秘傳之書",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/5/55/400017_01_portrait.png/250px-400017_01_portrait.png?version=98bb3f776596645c8b9e48de8f4c3d5b",
+      "type": "",
+      "content": [
+        "技能累積+4%(3%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "龍族之床",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/12/400016_01_portrait.png/250px-400016_01_portrait.png?version=5fba8856529081dcbbc4cf834d98fba8",
+      "type": "",
+      "content": [
+        "開場龍化量條+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "森林與湖畔之歌",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/4a/400015_01_portrait.png/250px-400015_01_portrait.png?version=319b0c0610796b6edeee5bbb0c0e3584",
+      "type": "",
+      "content": [
+        "濕身抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "遙遠的靈峰",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/b/b5/400014_01_portrait.png/250px-400014_01_portrait.png?version=14ce8f824bdb84b625530232f5407db9",
+      "type": "",
+      "content": [
+        "麻痺抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "「結社」的面具",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/c/c2/400013_01_portrait.png/250px-400013_01_portrait.png?version=e6969859a02fe60070ba331afb32739b",
+      "type": "",
+      "content": [
+        "黑暗抗性+20%(15%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "巔頂長嘯的獠牙",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/0d/400012_01_portrait.png/250px-400012_01_portrait.png?version=0bf92f7a510d7ba405d385fe2ef09712",
+      "type": "",
+      "content": [
+        "爆擊率+4%(3%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "破天號角",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/2/22/400011_01_portrait.png/250px-400011_01_portrait.png?version=233d9436b4c5a18202c67a50dc2399f3",
+      "type": "",
+      "content": [
+        "爆擊傷害+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "阿爾貝利亞國旗",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/4c/400010_01_portrait.png/250px-400010_01_portrait.png?version=637024e2b1db221d692159666299413d",
+      "type": "",
+      "content": [
+        "爆發傷害+20%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "芭萊朵納之花",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/16/400009_01_portrait.png/250px-400009_01_portrait.png?version=1761ace183ad86944663a73d449b1da4",
+      "type": "",
+      "content": [
+        "增益效果時間+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "午茶時光",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/a/a8/400008_01_portrait.png/250px-400008_01_portrait.png?version=7727cbca2024988f67312db8c2fff086",
+      "type": "",
+      "content": [
+        "開場技能條+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "聖光之環",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/9/9d/400007_01_portrait.png/250px-400007_01_portrait.png?version=884f58991c6982c816425f7f1e4d975f",
+      "type": "",
+      "content": [
+        "回復技能效果+5%(3%)"
+      ]
+    },
+    {
+      "rarity": "3",
+      "title": "名馬斯賈巴德",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/07/400006_01_portrait.png/250px-400006_01_portrait.png?version=45861d0a8035f257b2419479b9f37d4b",
+      "type": "",
+      "content": [
+        "BREAK特攻+15%(10%)"
+      ]
+    },
+    {
+      "rarity": "2",
+      "title": "陳舊的豎琴",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/d/df/400005_01_portrait.png/250px-400005_01_portrait.png?version=c9296edaff0483edd51a3ce2a13ac181",
+      "type": "",
+      "content": [
+        "回復技能效果+3%(2%)"
+      ]
+    },
+    {
+      "rarity": "2",
+      "title": "瑪納靈地",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/3/34/400004_01_portrait.png/250px-400004_01_portrait.png?version=284e0c142fa599d8512c920829abbba3",
+      "type": "",
+      "content": [
+        "技能傷害+10%(5%)"
+      ]
+    },
+    {
+      "rarity": "2",
+      "title": "龍族秘藥",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/0/04/400003_01_portrait.png/250px-400003_01_portrait.png?version=55153138e1d69079b9e07837d04d35de",
+      "type": "",
+      "content": [
+        "開場龍化量條+8%(5%)"
+      ]
+    },
+    {
+      "rarity": "2",
+      "title": "美味海鮮湯",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/4/4e/400002_01_portrait.png/250px-400002_01_portrait.png?version=26089fb34b16bb79199898dd7ca640ef",
+      "type": "",
+      "content": [
+        "開場技能條+10%(8%)"
+      ]
+    },
+    {
+      "rarity": "2",
+      "title": "奮勇戒指",
+      "img_url": "https://gamepedia.cursecdn.com/dragalialost_gamepedia_en/thumb/1/1f/400001_01_portrait.png/250px-400001_01_portrait.png?version=a3bd9b0835b6d4f85f453c15195758c1",
+      "type": "",
+      "content": [
+        "爆擊率+3%(2%)"
+      ]
+    }
+  ]
