@@ -23,7 +23,7 @@ var vm = new Vue({
       search: (d)=>{
         var temp = false
         for(var i=0;i<d.content.length;i++){
-           temp = (d.content[i].indexOf(Wyh_data.keyword)!=-1) || temp
+           temp = (d.content[i].indexOf(self.keyword)!=-1) || temp
         }
         return temp
       }
