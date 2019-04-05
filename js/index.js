@@ -1,7 +1,7 @@
 var Wyh_data = $.getJSON("data/dragli2.json",function(){
   console.log("success")
 })
-// import Wyh_data from 'data/dragli2.json'
+console.log("Wyh_data")
 var vm = new Vue({
   el: "#app",
   data: {
