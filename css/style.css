@@ -9,10 +9,18 @@ html, body, #app {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 30px;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.control .check {
+  margin-top: -20px;
+}
+.control .text {
+  width: 100%;
+  text-align: center;
 }
 
-.cards {
+.box {
   display: flex;
   justify-content: center;
   align-items: top;
@@ -20,16 +28,20 @@ html, body, #app {
   padding: 40px;
 }
 
-.card {
+.cards .card {
   margin: 5px;
   text-align: center;
 }
-.card .cover {
+.cards .card .cover {
   width: 220px;
 }
-.card .info {
+.cards .card .info {
   padding: 3px;
 }
-.card .info h3 {
+.cards .card .info h3 {
   margin: 0;
+}
+
+.highlight {
+  background-color: #fff387;
 }
