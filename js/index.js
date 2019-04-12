@@ -53,7 +53,7 @@ var vm = new Vue({
 
           var match_word = ab.match(new RegExp(_this.keyword,"i"))
           if(match_word){
-            this[idnex] = this[index].replace(new RegExp(_this.keyword, "i"),
+            this[index] = this[index].replace(new RegExp(_this.keyword, "i"),
               "<span class=highlight>" + match_word + "</span>")
           }
         },temp_card.content)
